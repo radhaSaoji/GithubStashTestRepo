@@ -6,6 +6,7 @@ public class Class1 {
 		System.out.println("1");
 		System.out.println("1.1");
 		System.out.println("branch A- 1.2");
+		System.out.println("Added new line in branch B");
 	}
 
 }
